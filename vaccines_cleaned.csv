@@ -1,0 +1,223 @@
+Location,Vaccinated,Percent
+World,5441.863836,68.24
+China,1303.832,91.44
+India,1026.977435,72.47
+European Union,337.933911,75.07
+United States,267.032055,80.43
+Indonesia,204.349928,74.17
+Brazil,187.67865,87.17
+Bangladesh,143.32361,83.72
+Pakistan,139.58481,59.19
+Japan,104.323897,84.16
+Mexico,97.179493,76.7
+Vietnam,90.044496,91.71
+Russia,86.092959,59.49
+Philippines,77.994168,67.49
+Iran,65.070315,73.48
+Germany,64.81407,77.74
+Nigeria,60.946631,27.89
+Turkey,57.936783,67.89
+Thailand,57.005497,79.62
+France,54.601412,80.52
+United Kingdom,53.806963,79.97
+Egypt,53.551563,48.25
+Italy,50.854226,86.14
+South Korea,45.125974,87.09
+Ethiopia,44.69542,37.16
+Colombia,42.842898,82.59
+Argentina,41.364593,90.89
+Spain,41.310693,86.99
+Myanmar,34.777314,64.64
+Canada,34.143735,88.79
+Peru,30.027321,88.19
+Tanzania,28.204265,43.06
+Malaysia,28.112767,82.84
+Nepal,27.316278,89.42
+Saudi Arabia,26.918732,73.93
+Morocco,25.010745,66.77
+Poland,22.819285,57.25
+Australia,22.443557,86.58
+South Africa,22.438427,37.46
+Venezuela,22.157232,77.19
+Taiwan,21.795331,91.22
+Uzbekistan,21.247096,61.36
+Uganda,18.867075,41.15
+Mozambique,18.585783,56.37
+Chile,18.078036,92.22
+Sri Lanka,17.143761,78.53
+Ukraine,15.729617,36.19
+Ecuador,15.237333,85.61
+Cambodia,15.215773,90.74
+Angola,14.22083,39.96
+Kenya,13.969231,25.86
+Netherlands,12.775557,73.0
+Ivory Coast,12.681498,45.03
+Ghana,11.837459,35.36
+Iraq,11.265168,25.32
+Afghanistan,11.196779,27.22
+Kazakhstan,10.842957,55.9
+Cuba,10.712926,95.55
+United Arab Emirates,9.991089,100.0
+Rwanda,9.933754,72.11
+Portugal,9.766176,95.09
+Belgium,9.262002,79.46
+Guatemala,8.847788,49.58
+Romania,8.183574,41.63
+Greece,7.93087,76.37
+Algeria,7.840131,17.75
+Sweden,7.824196,74.17
+Zambia,7.540676,38.72
+Bolivia,7.361008,60.94
+Dominican Republic,7.293723,64.96
+Tunisia,7.210222,58.35
+Somalia,7.137557,40.56
+Czech Republic,6.975943,66.48
+Austria,6.89328,77.11
+Hong Kong,6.891065,92.02
+Israel,6.720541,71.12
+Sudan,6.651268,14.81
+Belarus,6.512843,68.3
+Zimbabwe,6.437808,40.25
+Hungary,6.419758,64.41
+Honduras,6.40698,61.41
+Nicaragua,6.114751,88.0
+Switzerland,6.094894,69.73
+Niger,5.935299,22.65
+Laos,5.888649,79.31
+Guinea,5.809781,41.92
+Democratic Republic of the Congo,5.719214,5.78
+Azerbaijan,5.373253,52.1
+Tajikistan,5.282863,54.18
+Singapore,5.163385,91.6
+Jordan,4.821579,43.25
+Denmark,4.805396,81.69
+El Salvador,4.652597,73.69
+Finland,4.523074,81.63
+Costa Rica,4.500155,86.86
+Norway,4.346995,79.99
+New Zealand,4.298557,82.9
+Republic of Ireland,4.102155,81.67
+Paraguay,3.971312,58.57
+Chad,3.879297,22.58
+Malawi,3.827376,18.76
+Liberia,3.748721,70.69
+Sierra Leone,3.593593,41.76
+Panama,3.513104,79.69
+Kuwait,3.450995,80.84
+Serbia,3.354075,48.81
+Oman,3.257365,71.18
+Benin,3.209393,24.04
+Burkina Faso,3.079151,13.93
+Syria,3.05085,13.79
+Uruguay,3.00227,87.71
+Qatar,2.848221,105.68
+Slovakia,2.822919,51.82
+Lebanon,2.73329,49.79
+Mali,2.677304,11.85
+Croatia,2.319993,57.56
+Libya,2.308724,34.28
+Mongolia,2.272965,68.27
+Togo,2.232792,25.23
+South Sudan,2.143134,19.64
+Bulgaria,2.103303,31.01
+Palestine,2.012767,38.34
+Mauritania,2.008905,42.42
+Lithuania,1.956004,71.13
+Madagascar,1.821317,6.15
+Senegal,1.732282,10.0
+Central African Republic,1.713735,30.72
+Georgia,1.654504,44.03
+Cameroon,1.638561,5.87
+Kyrgyzstan,1.625148,24.51
+Botswana,1.589621,61.41
+Latvia,1.346184,71.84
+Albania,1.3391,47.11
+Slovenia,1.265802,59.72
+Bahrain,1.241025,84.3
+Armenia,1.128072,38.01
+Mauritius,1.123773,86.48
+Moldova,1.101302,35.97
+Bosnia and Herzegovina,0.943394,28.91
+Lesotho,0.924248,40.51
+Yemen,0.917435,2.72
+Kosovo,0.906514,50.87
+Estonia,0.868029,65.46
+Timor-Leste,0.860974,64.19
+North Macedonia,0.854335,40.62
+Jamaica,0.83593,29.57
+Trinidad and Tobago,0.753588,49.39
+Fiji,0.710832,76.45
+Bhutan,0.699116,89.35
+Republic of the Congo,0.69576,11.92
+Cyprus,0.669939,74.77
+Guinea-Bissau,0.640393,31.08
+Macau,0.625026,91.03
+Namibia,0.596624,23.24
+Gambia,0.548701,20.28
+Eswatini,0.4923,41.29
+Guyana,0.485891,60.39
+Luxembourg,0.481828,74.4
+Malta,0.478345,89.7
+Brunei,0.450174,100.26
+Comoros,0.438825,53.41
+Maldives,0.399126,76.2
+Haiti,0.397765,3.43
+Papua New Guinea,0.359043,3.54
+Cabo Verde,0.356734,60.68
+Solomon Islands,0.343821,47.47
+Gabon,0.310842,13.01
+Iceland,0.30977,84.0
+Montenegro,0.292783,46.63
+Northern Cyprus,0.284357,74.39
+Djibouti,0.27148,24.22
+Equatorial Guinea,0.270109,16.53
+Suriname,0.26782,45.26
+Belize,0.251385,62.03
+New Caledonia,0.191637,66.09
+Samoa,0.19113,85.94
+French Polynesia,0.190155,62.08
+Bahamas,0.174147,42.48
+Barbados,0.163749,58.14
+Vanuatu,0.144824,44.32
+Sao Tome and Principe,0.127423,56.04
+Curaçao,0.108601,56.81
+Kiribati,0.093685,71.39
+Tonga,0.090837,85.0
+Aruba,0.090037,84.57
+Seychelles,0.085685,79.98
+Jersey,0.084249,76.04
+Isle of Man,0.06956,81.44
+Saint Lucia,0.065297,36.3
+Antigua and Barbuda,0.06429,68.97
+Cayman Islands,0.061787,90.68
+Andorra,0.057898,72.51
+Guernsey,0.054146,85.42
+Bermuda,0.048554,75.65
+Grenada,0.04418,35.21
+Gibraltar,0.042074,124.88
+Faroe Islands,0.041715,85.04
+Greenland,0.041243,72.52
+Saint Vincent and the Grenadines,0.037311,35.89
+Saint Kitts and Nevis,0.033794,70.99
+Dominica,0.032995,45.57
+Turks and Caicos Islands,0.032338,71.68
+Turkmenistan,0.03224,0.53
+Sint Maarten,0.029788,67.41
+Liechtenstein,0.026763,68.0
+Monaco,0.026672,67.49
+San Marino,0.026357,77.5
+Burundi,0.024384,0.19
+British Virgin Islands,0.019466,62.55
+Caribbean Netherlands,0.019109,72.26
+Cook Islands,0.015084,88.56
+Nauru,0.011522,90.79
+Anguilla,0.010852,68.35
+Wallis and Futuna,0.007136,61.54
+Tuvalu,0.006368,53.4
+"Saint Helena, Ascension and Tristan da Cunha",0.004361,71.83
+Falkland Islands,0.002632,75.57
+Montserrat,0.002104,47.63
+Niue,0.00165,102.23
+Tokelau,0.001494,78.92
+Pitcairn Islands,4.7e-05,100.0
+North Korea,0.0,0.0
